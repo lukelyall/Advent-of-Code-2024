@@ -1,0 +1,14 @@
+/home/luke/Advent of Code 2024/Day 1/bin/Debug/net8.0/Day 1
+/home/luke/Advent of Code 2024/Day 1/bin/Debug/net8.0/Day 1.deps.json
+/home/luke/Advent of Code 2024/Day 1/bin/Debug/net8.0/Day 1.runtimeconfig.json
+/home/luke/Advent of Code 2024/Day 1/bin/Debug/net8.0/Day 1.dll
+/home/luke/Advent of Code 2024/Day 1/bin/Debug/net8.0/Day 1.pdb
+/home/luke/Advent of Code 2024/Day 1/obj/Debug/net8.0/Day 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/luke/Advent of Code 2024/Day 1/obj/Debug/net8.0/Day 1.AssemblyInfoInputs.cache
+/home/luke/Advent of Code 2024/Day 1/obj/Debug/net8.0/Day 1.AssemblyInfo.cs
+/home/luke/Advent of Code 2024/Day 1/obj/Debug/net8.0/Day 1.csproj.CoreCompileInputs.cache
+/home/luke/Advent of Code 2024/Day 1/obj/Debug/net8.0/Day 1.dll
+/home/luke/Advent of Code 2024/Day 1/obj/Debug/net8.0/refint/Day 1.dll
+/home/luke/Advent of Code 2024/Day 1/obj/Debug/net8.0/Day 1.pdb
+/home/luke/Advent of Code 2024/Day 1/obj/Debug/net8.0/Day 1.genruntimeconfig.cache
+/home/luke/Advent of Code 2024/Day 1/obj/Debug/net8.0/ref/Day 1.dll
